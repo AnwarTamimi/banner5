@@ -1,0 +1,204 @@
+body{
+   background-color: #F5F5F5;
+   
+}
+
+.home{
+    width:1440px;
+    height:828px;
+    background-image: linear-gradient(180deg,#FDEEFF 0%, #DBFFFE 100%);
+}
+.sombras{
+    width: 2240px;
+    height: 1724px;
+    margin-top: -350px;
+    margin-left:-400px;
+}
+.Ellipse220{
+    width: 1000px;
+    height: 1000px;
+    background: radial-gradient(34.9% 34.9% at 50% 50%, #FF86E4 0%, #FF3DD5 100%); /*???*/
+    opacity: 0.5;
+    border: 1px solid #000000;
+    filter: blur(500px);
+}
+.Ellipse219{
+    width: 1000px;
+    height: 1000px;
+    background: radial-gradient(61.1% 61.1% at 50% 50%, #D1FFF1 0%, #53ABF6 100%) ;
+    opacity: 0.5;
+    filter: blur(500px); 
+}
+.rectangle{
+    width: 1440px;
+    height: 1024px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background: rgba(255, 255, 255, 0.3);
+}
+.menu{
+    width:1006.56px;
+    height:54px;
+    margin-top:32px;
+    margin-left:359.44px;;
+    align-items: center;
+}
+.frame61{
+    height:19px;
+    width:561px;
+    gap: 20px; 
+}
+
+.frame61 .a1{
+    font-weight: 800;
+}
+.frame61 a{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.003em;
+    color: #595984;
+    text-decoration: none;
+     /* ul or table ??*/
+}
+.frame64{
+    width:370px;
+    height:19px;
+    align-items: center;
+}
+.logo img{
+    margin-left:87px;
+    margin-top:29px;
+    width:151px;
+    height:39.5px;
+}
+.Rectangle841{
+    width:1px;
+    height: 26px;
+    background-color:#DCDCDC;
+    margin-left: 27px;
+    margin-right: 27px; 
+}
+.frame64 .icon1
+{
+    color:#595984;
+    width:20px;
+    height: 20px;
+}
+.frame62 a{
+    font-family: 'Manrope';
+    font-size: 16px;
+    font-weight: 800;
+    text-decoration: none;
+    color:#595984;
+    letter-spacing: -0.3%;  
+}
+.menubutton{
+    background-color:#595984;
+    margin-left: 18px;
+    padding: 16px;
+    color:#FFFFFF;
+    font-family: 'Manrope';
+    font-size: 16px;
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: -0.3%;
+}
+.frame62{
+    width:295px;
+    align-items: center;
+}
+.fa-angle-down{
+    margin-left:2px;
+}
+.contenido{
+    width:669px;
+    height:568px;
+    margin-left: 74px;
+    margin-top: 205px;
+}
+.pngwing{
+    width:797px;
+    height:697px;
+    margin-left: 543px;
+    margin-top: 146px; 
+}
+.pngwing1 {
+    margin-left: 27px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);  
+}
+.contenido h1 {
+    width: 639px;
+    height: 240px;
+    margin-left: 13px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 66px;
+    line-height: 80px;
+    align-items: center;
+    letter-spacing: -0.04em;
+    color: #151B26; 
+}
+.contenido .Mira {
+    width: 666px;
+    height: 120px;
+    margin-left: 3px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.008em;
+    color: #646F79;
+}
+.contenido .create {
+
+    width: 135px;
+    height: 19px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: -0.003em;
+    color: #595984;
+    margin-top: 63px;
+}
+.contenido .frame57 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 10px;
+    margin-top:46px;    
+    width: 239px;
+    height: 54px;
+    margin-left: 3px;
+    background-color: #595984;
+    box-shadow: 0px 4px 20px rgba(89, 89, 132, 0.5);
+    border-radius: 4px;
+}
+.contenido .frame57 p {
+    width: 207px;
+    height: 22px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 22px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.003em;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.contenido span{
+   color:#595984;
+}
